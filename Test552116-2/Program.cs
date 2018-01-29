@@ -11,6 +11,8 @@ namespace Test552116_2
         static void Main(string[] args)
         {
             Console.Write("Hello, world");
+            Console.Write("Hello, world2");
+            Console.Write("Hello, world3");
         }
     }
 }
