@@ -10,7 +10,7 @@ namespace Test552116_2
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
+            Console.Write("Hello, world");
         }
     }
 }
